@@ -6,4 +6,4 @@ Mis habilidades incluyen la validación y elaboración de modelos de machine lea
 
 **Ultimo proyecto:**
 
-Dado mi perfil y mis afinidades, en mi último proyecto (grupal), he aportado con la creación de un modelo de machine learning, donde utilizo un algoritmo de busqueda de densidad por geolocalización, combinado con una red neuronal para reconocimiento de similitudes de plabras y he desarrollado un sistema de puntuaciones, que consiste en la optimización de una función suma ponderada. Se invita a mirar el portafolios de dicho proyecto para conocer mi trabajo y el de mis compañeros  (pf_yelp_google).
+Dado mi perfil y mis afinidades, en mi último proyecto de colaboración grupal, he aportado con la creación de un modelo de machine learning, donde utilizo un algoritmo de busqueda de densidad por geolocalización, combinado con una red neuronal para reconocimiento de similitudes de plabras y he desarrollado un sistema de puntuaciones, que consiste en la optimización de una función suma ponderada. Se invita a mirar el portafolios de dicho proyecto para conocer mi trabajo y el de mis colegas  (pf_yelp_google).
