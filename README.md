@@ -4,7 +4,7 @@ Mi nombre es Martín, matemático orientado a la ciencia de datos. Trabajo de ma
 
 **Habilidades:**
 
-Mis habilidades incluyen la creación de modelos de machine learning, con fuerte sustento desde la matemática y la estadística (utilizando scikit-learn y TensorFlow), métodos numéricos y optimización, visualización de datos (Matplotlib y Seaborn), creación de dashboards en Power BI, implementación de deploy con Render y FastAPI, programación en Python y R, análisis estadístico y probabilístico, y conocimientos básicos en Big Data con Apache Spark y Databricks.
+Mis habilidades incluyen la creación de modelos de machine learning, con fuerte sustento desde la matemática y la estadística (utilizando scikit-learn y TensorFlow), métodos de optimización de la rama del cálculo numérico, visualización de datos (Matplotlib y Seaborn), creación de dashboards en Power BI, implementación de deploy con Render y FastAPI, programación en Python y R, análisis estadístico y probabilístico, y conocimientos básicos en Big Data con Apache Spark y Databricks.
 
 **Ultimo proyecto:**
 
