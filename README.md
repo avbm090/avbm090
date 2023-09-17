@@ -1,8 +1,7 @@
 ### Bienvenidos  🧑‍💻 ❗
 
-**Habilidades:**
+Mi nombre es Martín, matemático orientado a la ciencia de datos. Trabajo de manera independiente, enseñando matemáticas y estadísticas, y desarrollando proyectos de mahcine learning. Tengo una sólida formación en matemáticas y estadísticas, lo que me permite abordar problemas desde una perspectiva analítica. También tengo experiencia como docente, lo que me ayuda a comunicar ideas de manera clara.
 
-Mis habilidades incluyen la creación de modelos de machine learning, con fuerte sustento desde la matemática y la estadística (utilizando scikit-learn y TensorFlow), métodos de optimización de la rama del cálculo numérico, visualización de datos (Matplotlib y Seaborn), creación de dashboards en Power BI, implementación de deploy con Render y FastAPI, programación en Python y R, análisis estadístico y probabilístico, y conocimientos básicos en Big Data con Apache Spark y Databricks.
 
 **Ultimo proyecto:**
 
