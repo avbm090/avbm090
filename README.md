@@ -1,6 +1,6 @@
 ### Bienvenidos  🧑‍💻 ❗
 
-Mi nombre es Martín, matemático orientado a la ciencia de datos. Trabajo de manera independiente, enseñando matemáticas y estadísticas, y desarrollando proyectos de mahcine learning. Tengo una sólida formación en matemáticas y estadísticas, lo que me permite abordar problemas desde una perspectiva analítica. También tengo experiencia como docente, lo que me ayuda a comunicar ideas de manera clara.
+Mi nombre es Martín, matemático orientado a la ciencia de datos. Trabajo de manera independiente, enseñando matemáticas y estadísticas, y desarrollando proyectos de mahcine learning. Mi formación me permite elaborar modelos matemáticos útiles para abordar problemas desde una perspectiva analítica. También tengo experiencia como docente, lo que me ayuda a comunicar ideas de manera clara.
 
 
 **Ultimo proyecto:**
