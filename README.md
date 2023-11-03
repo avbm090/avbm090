@@ -6,3 +6,14 @@ Mis habilidades incluyen la validación y elaboración de modelos de machine lea
 
 
 A continuación, se invita a visualizar algunos de los proyectos que contribuyeron durante mi formación. 
+
+Juegos-de-Steam-Data-Engineer(Nivel-Principiante): Este proyecto abarca la creación y despliegue de una API mediante la plataforma Render. La API se enlaza con una base de datos que contiene información sobre videojuegos, y brinda detalles acerca de los precios y atributos de dichos juegos. Además, ofrece la funcionalidad de predecir los posibles precios futuros según las características proporcionadas.
+
+
+Criptomonedas-Nivel (Principiante-Intermedio): En este proyecto, se diseñan y utilizan tres KPIs que conectan métricas como la varianza, la media móvil y otras, con el propósito de generar señales para efectuar operaciones de compra de criptomonedas, así como para mantenerlas en curso.
+
+
+Google_Yelp-Nivel-Intermedio: El proyecto incluye el desarrollo de un sistema de indicadores clave de rendimiento (KPIs) y la creación de un modelo de machine learning con el fin de proporcionar recomendaciones sobre la ubicación ideal para establecer una parrilla argentina en Miami, a vistas del próximo mundial. 
+Mi aporte al grupo fue la creación del modelo de machine learning, que consiste en un ensamble entre un algoritmo de búsqueda de densidad por coordenadas geográficas ( Kernel Density Estimation ), una red neuronal (variante CBOW de word2vec) y una función de sumas ponderadas optimizada con el método del descenso del gradiente, posteriormente utilizada como sistema de puntuación. Por otro lado, desarrollé y simplifiqué un código .py con los endpoints para facilitar el despliegue de la API.
+
+
