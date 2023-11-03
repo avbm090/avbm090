@@ -9,7 +9,7 @@ A continuación, se invita a visualizar algunos de los proyectos que contribuyer
 
 
 Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): 
-El proyecto grupal incluye el desarrollo de un sistema de indicadores clave de rendimiento (KPIs) y la creación de un modelo de machine learning con el fin de proporcionar recomendaciones sobre la ubicación ideal para establecer una parrilla argentina en Miami, a vistas del próximo mundial. 
+El proyecto grupal incluye el desarrollo de KPIs, y la creación de un modelo de machine learning, con el fin de proporcionar recomendaciones sobre la ubicación ideal para establecer una parrilla argentina en Miami, a vistas del próximo mundial. 
 Mi aporte al grupo fue la creación del modelo de machine learning, que consiste en un ensamble entre un algoritmo de búsqueda de densidad por coordenadas geográficas ( Kernel Density Estimation ), una red neuronal (variante CBOW de word2vec) y una función de sumas ponderadas optimizada con el método del descenso del gradiente, posteriormente utilizada como sistema de puntuación. Por otro lado, desarrollé y simplifiqué un código .py con los endpoints para facilitar el deploy de la API.
 
 
