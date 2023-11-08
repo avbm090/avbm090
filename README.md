@@ -5,7 +5,7 @@ Mi nombre es Martín, Científico de datos con background en matemática y estad
 Mis habilidades incluyen la validación y elaboración de modelos de machine learning, con sus respectivos análisis estadísticos y probabilísticos, implementación de técnicas de optimización de funciones mediante el uso de métodos numéricos. Por otro lado, la elaboración de KPIs,  la creación de dashboards básicos en Power BI, la implementación de deploy con Render, frameworks FastAPI y streamlit, programación en Python, R, SQL, y cuento con conocimientos básicos en Big Data con Apache Spark y Databricks.
 
 
-A continuación, se invita a visualizar algunos de los proyectos que contribuyeron durante mi formación. 
+A continuación, se invita a visualizar algunos de los proyectos de los proyectos de codigo abierto que he desarrollado. 
 
 
 Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): 
