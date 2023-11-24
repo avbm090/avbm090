@@ -9,7 +9,7 @@ Actualmente busco poder desenvolverme en ámbitos donde pueda aportar desde mis 
 Si eres reclutadora o reclutador y tienes conocimientos en el sector IT, te invito a que mires algunos de los proyectos que he desarrollado .
 
 
-**Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): **
+Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): 
 El proyecto grupal incluye el desarrollo de KPIs, y la creación de un modelo de machine learning, con el fin de proporcionar recomendaciones sobre la ubicación ideal para establecer una parrilla argentina en Miami, a vistas del próximo mundial. 
 Mi contribución al grupo incluyó la creación de un modelo de machine learning mediante un enfoque de ensamble. Este modelo combina un algoritmo de búsqueda de densidad basado en coordenadas geográficas, Kernel Density Estimation (KDE), con una red neuronal utilizando la variante CBOW de word2vec. Además, desarrollé una función de sumas ponderadas optimizada mediante el método del descenso del gradiente, la cual fue posteriormente utilizada como sistema de puntuación. Adicionalmente, simplifiqué y optimicé un archivo de código .py con los endpoints necesarios para facilitar el deployment de la API."
 
