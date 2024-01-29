@@ -2,13 +2,13 @@
 
 Mi nombre es Martín, Científico de Datos y Analista de Datos con background en matemática y estadística. Trabajo de manera independiente, impartiendo tutorías de matemáticas y estadísticas, y desarrollando proyectos como Data Scientist y Data Analyst. 
 
-Mis habilidades incluyen la creación y deploy de APIs, frameworks FastAPI y streamlit, programación en Python, R, SQL. Validación y elaboración de modelos de machine learning, implementación de técnicas de optimización de funciones objetivo mediante el uso de métodos numéricos. Elaboración de KPIs, creación de dashboards básicos en Power BI, y cuento con conocimientos básicos en Big Data con Apache Spark y Databricks. Cuento con experiencia previa de trabajo en el marco de la metodología Scrum.
+Mis habilidades incluyen la creación y deploy de APIs, programación en Python(flask, dash, fastAPI, streamlit y librerías scikit-learn, tensor flow, pyomo, entre otras), R, SQL. Validación y elaboración de modelos de machine learning, implementación de técnicas de optimización de funciones objetivo mediante el uso de métodos numéricos. Elaboración de KPIs, creación de dashboards básicos en Power BI, y cuento con conocimientos básicos en Big Data con Apache Spark y Databricks. Cuento con experiencia previa de trabajo en el marco de la metodología Scrum.
 
 Actualmente busco poder desenvolverme en ámbitos donde pueda aportar desde mis conocimientos y experiencia, trabajar en equipo y aprender de los demás. 
 
 
 
-Si eres reclutadora o reclutador y tienes conocimientos en el sector IT, te invito a que mires algunos de los proyectos que he desarrollado :
+Si eres reclutadora o reclutador y tienes conocimientos en el sector IT, te invito a que mires algunos de los proyectos de códiugo abierto que he desarrollado/participado:
 
 
 Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): 
