@@ -6,7 +6,7 @@ Mis habilidades incluyen la creación y deploy de APIs, programación en Python(
 
 Actualmente busco poder desenvolverme en ámbitos donde pueda aportar desde mis conocimientos y experiencia, trabajar en equipo y aprender de los demás. 
 
-Proyectos básicos de código abierto:
+Proyectos básicos de código abierto (proyectos de juguete):
 
 Google_Yelp (Data scientist-Machine learning Engineer - Nivel: Intermedio): 
 El proyecto grupal incluye el desarrollo de KPIs, y la creación de un modelo de machine learning, con el fin de proporcionar recomendaciones sobre la ubicación ideal para establecer una parrilla argentina en Miami, a vistas del próximo mundial. 
