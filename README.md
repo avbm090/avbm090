@@ -1,4 +1,2 @@
 ### Bienvenidos  🧑‍💻 ❗
 
-Analista de Datos
-
